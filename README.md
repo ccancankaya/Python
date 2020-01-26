@@ -1,3 +1,2 @@
 # Python
-ilk değişiklik
-ikinci değişiklik
+Farklı farklı python uygulamları yapılmıştır
